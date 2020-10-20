@@ -1,4 +1,4 @@
-# 1E-Yu-Xinprint("Title of program: Encouragement bot")
+# 1E-Yu-Xin.pr("Title of program: Encouragement bot")
 print()
 while True:
   description = input("Could you describe how you feel in a sentence?")
